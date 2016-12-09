@@ -1,0 +1,25 @@
+Weapon stats:
+In Gladius, your weapon is your life, there are several to chose
+from to fit your own preferred playstyle.
+
+All One-Handed Weapons are paired with a shield which will increase
+your ability to block damage
+
+Base Damage - this is the minimum amount of damage if you hit.
+
+Weapon Speed - the higher the number, the less likely your attack
+will be blocked or parried
+
+Weapon Reach - longer reaches provide additional defensive bonuses
+as well as counter attack opportunities
+
+Defensive Bonus - defensive bonus for chosing a two handed weapon
+over a one hand and a shield
+
+Agility Loss - larger heavier weapons that do more damage are also
+harder to swing. They do more damage, but can be blocked easier.
+
+Armor Stats:
+Armor only has two stats, Defensive Bonus and Agility Loss. These
+represent the ability for you to block incoming damage, but also
+the loss of mobility to either dodge or parry incoming attacks.

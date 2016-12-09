@@ -1,0 +1,13 @@
+Glatiator is played in alternating rounds of combat where you and
+your opponent select actions and carry them out. Both actions are
+acted out at the same time. For example, if you chose to block and
+your opponent choses also to block, the round will end and new
+actions will be selected. If you chose to dodge and your opponent 
+choses to attack, combat will be resolved.
+
+Combat ends when one player falls to 1 health or below. At the
+end of Combat the Emperor will pass judgement upon the fallen.
+based on the amount of favor they have earned. The less favor
+the more likely it is that the Emperor will let the gladiator die
+to please the crowd. The more favor, the more likely they will be
+glorified for their achievements.
